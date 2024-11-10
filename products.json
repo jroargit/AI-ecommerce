@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "EcoFriendly Water Bottle",
+        "description": "A reusable water bottle made from eco-friendly materials.",
+        "price": 15.99,
+        "stock": true
+    },
+    {
+        "id": 2,
+        "name": "Organic Cotton T-Shirt",
+        "description": "Soft and comfortable T-shirt made from 100% organic cotton.",
+        "price": 25.00,
+        "stock": false
+    },
+    {
+        "id": 3,
+        "name": "Bluetooth Earbuds",
+        "description": "Wireless earbuds with excellent sound quality and long battery life.",
+        "price": 49.99,
+        "stock": true
+    },
+    {
+        "id": 4,
+        "name": "Solar Charger",
+        "description": "Portable solar charger for your devices. Ideal for outdoor adventures.",
+        "price": 35.00,
+        "stock": true
+    },
+    {
+        "id": 5,
+        "name": "Smart Home Hub",
+        "description": "Control all your smart home devices from one central hub.",
+        "price": 89.99,
+        "stock": false
+    }
+]
